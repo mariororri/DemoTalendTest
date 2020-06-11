@@ -173,6 +173,7 @@
     <metadata connector="FLOW" name="tSortRow_1"/>
   </node>
   <note opaque="true" posX="448" posY="160" sizeHeight="64" sizeWidth="96" text="text"/>
+  <note opaque="true" posX="384" posY="32" sizeHeight="64" sizeWidth="96" text="text"/>
   <subjob>
     <elementParameter field="TEXT" name="UNIQUE_NAME" value="tLogRow_1" show="false"/>
     <elementParameter field="COLOR" name="SUBJOB_TITLE_COLOR" value="92;131;150" show="false"/>
