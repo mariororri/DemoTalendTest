@@ -11,6 +11,7 @@
   <modules>
     <module>code/routines</module>
     <module>jobs/process/j_test_operativita_git_0.1</module>
+    <module>jobs/process/test_paolo_0.1</module>
     <module>jobs/process/j__test_coupled_work_0.1</module>
   </modules>
   <properties>
