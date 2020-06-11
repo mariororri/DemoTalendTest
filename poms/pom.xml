@@ -6,14 +6,14 @@
   <artifactId>code.Master</artifactId>
   <version>7.2.1</version>
   <packaging>pom</packaging>
-  <name>TEST Codes Master</name>
+  <name>PAOLOHATORTO Codes Master</name>
   <url>http://www.talend.org/</url>
   <modules>
     <module>code/routines</module>
     <module>jobs/process/j_test_operativita_git_0.1</module>
   </modules>
   <properties>
-    <talend.project.name>TEST</talend.project.name>
+    <talend.project.name>PAOLOHATORTO</talend.project.name>
     <encoding>UTF-8</encoding>
   </properties>
   <build>
